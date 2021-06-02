@@ -305,19 +305,19 @@ body {
 }
 
 .icon-details::before {
-  background-image: url(../images/details-icon.svg);
+  background-image: url(../images/icons/details-icon.svg);
 }
 
 .icon-clock::before {
-  background-image: url(../images/clock-icon.svg);
+  background-image: url(../images/icons/clock-icon.svg);
 }
 
 .icon-diagram::before {
-  background-image: url(../images/diagram-icon.svg);
+  background-image: url(../images/icons/diagram-icon.svg);
 }
 
 .icon-astronaut::before {
-  background-image: url(../images/astronaut-icon.svg);
+  background-image: url(../images/icons/astronaut-icon.svg);
 }
 
 /* Work */
@@ -547,6 +547,7 @@ body {
 .site-footer .conteiner {
   display: flex;
   flex-wrap: wrap;
+  align-items: baseline;
 }
 
 .contact-box {
@@ -584,7 +585,6 @@ body {
   flex-direction: column;
   font-family: inherit;
   font-style: normal;
-  padding-top: 12px;
 }
 
 .social .title {
@@ -619,17 +619,17 @@ body {
 }
 
 .icon-instagram {
-  background-image: url(../images/instagram.svg);
+  background-image: url(../images/icons/instagram.svg);
 }
 
 .icon-twitter {
-  background-image: url(../images/twitter.svg);
+  background-image: url(../images/icons/twitter.svg);
 }
 
 .icon-facebook {
-  background-image: url(../images/facebook.svg);
+  background-image: url(../images/icons/facebook.svg);
 }
 
 .icon-linkedin {
-  background-image: url(../images/linkedin.svg);
+  background-image: url(../images/icons/linkedin.svg);
 }
